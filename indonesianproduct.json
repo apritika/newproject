@@ -1,0 +1,222 @@
+[
+  {
+    "Nomor": 1,
+    "Id item": "A0181",
+    "English name": "Indomie Original",
+    "Nama Indonesia": "INDOMIE Goreng Original",
+    "Spesifikasi": "40*85g",
+    "Price": 240,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Goreng Original.jpg"
+  },
+  {
+    "Nomor": 2,
+    "Id item": "A0182",
+    "English name": "Indomie Spicy",
+    "Nama Indonesia": "INDOMIE Goreng Pedas",
+    "Spesifikasi": "40*80g",
+    "Price": 240,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Goreng Pedas.jpg"
+  },
+  {
+    "Nomor": 3,
+    "Id item": "A0183",
+    "English name": "Indomie Fried Sate flavour",
+    "Nama Indonesia": "INDOMIE Goreng Sate",
+    "Spesifikasi": "40*80g",
+    "Price": 240,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Goreng Sate.jpg"
+  },
+  {
+    "Nomor": 4,
+    "Id item": "A0184",
+    "English name": "Indomie Meat",
+    "Nama Indonesia": "INDOMIE Goreng Rendang",
+    "Spesifikasi": "40*80g",
+    "Price": 240,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Goreng Rendang.jpg"
+  },
+  {
+    "Nomor": 5,
+    "Id item": "A0185",
+    "English name": "Indomie Curry",
+    "Nama Indonesia": "INDOMIE Kari",
+    "Spesifikasi": "40*80g",
+    "Price": 230,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Kari.jpg"
+  },
+  {
+    "Nomor": 6,
+    "Id item": "A0186",
+    "English name": "Indomie Noodle Soup",
+    "Nama Indonesia": "INDOMIE Soto Mie",
+    "Spesifikasi": "40*75g",
+    "Price": 225,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Soto Mie.jpg"
+  },
+  {
+    "Nomor": 7,
+    "Id item": "A0187",
+    "English name": "Indomie Special Chicken",
+    "Nama Indonesia": "INDOMIE Special Chicken",
+    "Spesifikasi": "40*75g",
+    "Price": 225,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Special Chicken.jpg"
+  },
+  {
+    "Nomor": 8,
+    "Id item": "A0188",
+    "English name": "Indomie Chicken",
+    "Nama Indonesia": "INDOMIE Ayam Bawang",
+    "Spesifikasi": "40*75g",
+    "Price": 225,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Ayam Bawang.jpg"
+  },
+  {
+    "Nomor": 9,
+    "Id item": "A0189",
+    "English name": "Indomie Spicy beef ribs",
+    "Nama Indonesia": "INDOMIE Mi Goreng Spicy Beef Ribs",
+    "Spesifikasi": "40*80g",
+    "Price": 240,
+    "Unit": "DUS",
+    "PIC": "INDOMIE Mi Goreng Spicy Beef Ribs.jpg"
+  },
+  {
+    "Nomor": 10,
+    "Id item": "A101",
+    "English name": "Popmie Chicken",
+    "Nama Indonesia": "POPMIE RASA AYAM",
+    "Spesifikasi": "24*75g",
+    "Price": 320,
+    "Unit": "DUS",
+    "PIC": "POPMIE RASA AYAM.jpg"
+  },
+  {
+    "Nomor": 11,
+    "Id item": "A102",
+    "English name": "Popmie Meat ball",
+    "Nama Indonesia": "POPMIE BAKSO SAPI",
+    "Spesifikasi": "24*75g",
+    "Price": 320,
+    "Unit": "DUS",
+    "PIC": "POPMIE BAKSO SAPI.jpg"
+  },
+  {
+    "Nomor": 12,
+    "Id item": "A103",
+    "English name": "POPMIE Chicken special",
+    "Nama Indonesia": "POPMIE AYAM BAWANG",
+    "Spesifikasi": "24*75g",
+    "Price": 330,
+    "Unit": "DUS",
+    "PIC": "POPMIE AYAM BAWANG.jpg"
+  },
+  {
+    "Nomor": 13,
+    "Id item": "A104",
+    "English name": "Popmie Curry",
+    "Nama Indonesia": "POPMIE AYAM KARI",
+    "Spesifikasi": "24*75g",
+    "Price": 320,
+    "Unit": "DUS",
+    "PIC": "POPMIE AYAM KARI.jpg"
+  },
+  {
+    "Nomor": 14,
+    "Id item": "A105",
+    "English name": "Popmie Chichen Soup",
+    "Nama Indonesia": "POP MIE RASA SOTO AYAM",
+    "Spesifikasi": "24*77g",
+    "Price": 320,
+    "Unit": "DUS",
+    "PIC": "POP MIE RASA SOTO AYAM.jpg"
+  },
+  {
+    "Nomor": 15,
+    "Id item": "A4627",
+    "English name": "ABC soy sauce",
+    "Nama Indonesia": "ABC KECAP MANIS",
+    "Spesifikasi": "6*6kg",
+    "Price": "2,400",
+    "Unit": "DUS",
+    "PIC": "ABC KECAP MANIS.jpg"
+  },
+  {
+    "Nomor": 16,
+    "Id item": "A4787",
+    "English name": "Salty soy sauce Cap Tiga",
+    "Nama Indonesia": "KECAP ASIN CAP TIGA SETIA KAWAN",
+    "Spesifikasi": "12*620ML",
+    "Price": 630,
+    "Unit": "DUS",
+    "PIC": "KECAP ASIN CAP TIGA SETIA KAWAN.jpg"
+  },
+  {
+    "Nomor": 17,
+    "Id item": "B003",
+    "English name": "Goldfish stamp",
+    "Nama Indonesia": "CAP IKAN MAS INTAN KECAP ASIN(Besar botol)",
+    "Spesifikasi": "12*650ml",
+    "Price": 630,
+    "Unit": "DUS",
+    "PIC": "CAP IKAN MAS INTAN KECAP ASIN(Besar botol).jpg"
+  },
+  {
+    "Nomor": 18,
+    "Id item": "B101",
+    "English name": "ABC soy sauce(BIG size)",
+    "Nama Indonesia": "ABC KECAP MANIS(Besar botol)",
+    "Spesifikasi": "12*600ml",
+    "Price": 750,
+    "Unit": "DUS",
+    "PIC": "ABC KECAP MANIS(Besar botol).jpg"
+  },
+  {
+    "Nomor": 19,
+    "Id item": "B102",
+    "English name": "ABC soySauce(smallsize)",
+    "Nama Indonesia": "ABC KECAP MANIS(Botol kecil)",
+    "Spesifikasi": "48*135ml",
+    "Price": 770,
+    "Unit": "DUS",
+    "PIC": "ABC KECAP MANIS(Botol kecil).jpg"
+  },
+  {
+    "Nomor": 20,
+    "Id item": "B103",
+    "English name": "SoySauce Bango",
+    "Nama Indonesia": "CAP BANGO KECAP MANIS",
+    "Spesifikasi": "24*275ml",
+    "Price": "1,120",
+    "Unit": "DUS",
+    "PIC": "CAP BANGO KECAP MANIS.jpg"
+  },
+  {
+    "Nomor": 21,
+    "Id item": "B107",
+    "English name": "ABC Spicy soy sauce",
+    "Nama Indonesia": "ABC KECAP PEDAS KENCIL",
+    "Spesifikasi": "48*135ml",
+    "Price": 900,
+    "Unit": "DUS",
+    "PIC": "ABC KECAP PEDAS KENCIL.jpg"
+  },
+  {
+    "Nomor": 22,
+    "Id item": "B108",
+    "English name": "ABCspicy small size",
+    "Nama Indonesia": "ABC KECAP PEDAS SEDANG PLASTIC",
+    "Spesifikasi": "24*275ml",
+    "Price": 900,
+    "Unit": "DUS",
+    "PIC": "ABC KECAP PEDAS SEDANG PLASTIC.jpg"
+  }
+]
